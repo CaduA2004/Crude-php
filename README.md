@@ -17,6 +17,18 @@ AI: Auto incremento
 . Bootstrap: Framework CSS para estilização e responsividade da interface.
 . HTML & CSS: Estruturação e estilização das páginas do sistema.
 
+##Listar clientes
+
+![cruud](https://github.com/user-attachments/assets/d9528a6b-4bab-4b1c-9ec2-f57c29e3f3cf)
+
+##Adicionar Clientes
+
+![add](https://github.com/user-attachments/assets/6e5ddca1-39e7-4ec2-bbbb-5c2995b18ffc)
+
+##Edição
+
+![edicao](https://github.com/user-attachments/assets/a96f3d0b-8664-4071-b3c8-ee2428fd4d1a)
+
 ## Requisitos
 
 - **Docker** instalado ([Como instalar o Docker](https://docs.docker.com/get-docker/)).
